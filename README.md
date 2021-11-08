@@ -5,14 +5,21 @@
 This project is to help in Methane gas extraction. It involves a machine learning model in learning from microclimate parameters. I worked to improve current work in IoT with artificial intelligence and fog computing to reduce latency and achieve a better quality of service. 
 Technologies Used: 
 Front End: 
+
+
 -	JavaScript (with Chart.js) 
 -	HTML/CSS
 -	JQuery 
+
 Backend: 
+
+
 -	Laravel (PHP)
 -	Python
 -	MYSQL
 Hardware/ sensors configuration & Machine learning Model training: 
+
+
 -	Python 
 -	Linux 
 -	Raspberry Pi
