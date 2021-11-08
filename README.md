@@ -17,6 +17,9 @@ Backend:
 -	Laravel (PHP)
 -	Python
 -	MYSQL
+
+
+
 Hardware/ sensors configuration & Machine learning Model training: 
 
 
