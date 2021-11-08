@@ -1,3 +1,25 @@
+IoT Monitoring System
+This project is to help in Methane gas extraction. It involves a machine learning model in learning from microclimate parameters. I worked to improve current work in IoT with artificial intelligence and fog computing to reduce latency and achieve a better quality of service. 
+Technologies Used: 
+Front End: 
+-	JavaScript (with Chart.js) 
+-	HTML/CSS
+-	JQuery 
+Backend: 
+-	Laravel (PHP)
+-	Python
+-	MYSQL
+Hardware/ sensors configuration & Machine learning Model training: 
+-	Python 
+-	Linux 
+-	Raspberry Pi
+-	Isolation Forest Anomaly detection (with Sklearn)
+-	MQ4- Methane Sensor
+-	DHT22- Humidity & Temperature sensor
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
